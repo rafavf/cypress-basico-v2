@@ -1,0 +1,8 @@
+
+
+{
+ "chromeWebSecurity": false,
+ "experimentalModifyObstructiveThirdPartyCode": true,
+ "viewportWidth": 1350,
+  "viewportHeight": 900
+}
